@@ -1,0 +1,29 @@
+name: BabaManda1925
+favicon: null
+layout_spectrum: 0.6553851109929383
+typography_spectrum: 0.04009743337519467
+title: BabaManda est. 1925
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6530022975057364
+  lightness: 0.27794823283329606
+  saturation: 0.958546906709671
+  rhythmicContrast: 0.5130768637172878
+purpose: []
